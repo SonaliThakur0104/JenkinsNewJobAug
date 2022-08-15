@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-15T17:33:23 IST" name="Suite" finished-at="2022-08-15T17:33:40 IST" duration-ms="16804">
+    <groups>
+    </groups>
+    <test started-at="2022-08-15T17:33:23 IST" name="Test" finished-at="2022-08-15T17:33:40 IST" duration-ms="16804">
+      <class name="com.practiceJenkinsTest.Practice1Test">
+        <test-method signature="practiceJenkinsTest()[pri:0, instance:com.practiceJenkinsTest.Practice1Test@6c0d7c83]" started-at="2022-08-15T17:33:24 IST" name="practiceJenkinsTest" finished-at="2022-08-15T17:33:24 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceJenkinsTest -->
+      </class> <!-- com.practiceJenkinsTest.Practice1Test -->
+      <class name="com.practiceJenkinsTest.Practice4Test">
+        <test-method signature="practice4test()[pri:0, instance:com.practiceJenkinsTest.Practice4Test@5965be2d]" started-at="2022-08-15T17:33:40 IST" name="practice4test" finished-at="2022-08-15T17:33:40 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practice4test -->
+      </class> <!-- com.practiceJenkinsTest.Practice4Test -->
+      <class name="com.practiceJenkinsTest.Practice3Test">
+        <test-method signature="practice3Test()[pri:0, instance:com.practiceJenkinsTest.Practice3Test@176b75f7]" started-at="2022-08-15T17:33:24 IST" name="practice3Test" finished-at="2022-08-15T17:33:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practice3Test -->
+      </class> <!-- com.practiceJenkinsTest.Practice3Test -->
+      <class name="com.practiceJenkinsTest.Practice2Test">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.practiceJenkinsTest.Practice2Test@14f9390f]" started-at="2022-08-15T17:33:16 IST" name="launchBrowser" finished-at="2022-08-15T17:33:23 IST" duration-ms="7284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="signInMouseHover()[pri:0, instance:com.practiceJenkinsTest.Practice2Test@14f9390f]" started-at="2022-08-15T17:33:24 IST" name="signInMouseHover" finished-at="2022-08-15T17:33:40 IST" duration-ms="15653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInMouseHover -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.practiceJenkinsTest.Practice2Test@14f9390f]" started-at="2022-08-15T17:33:41 IST" name="closeBrowser" finished-at="2022-08-15T17:33:42 IST" duration-ms="1427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.practiceJenkinsTest.Practice2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
